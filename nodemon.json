@@ -1,0 +1,9 @@
+{
+    "env":{
+        "MONGO_USER":"thoi",
+        "MONGO_PWD":"WzXUcOdHt6D8rRFE",
+        "MONGO_DB": "events-react-graphql",
+        "TOKEN_KEY": "cwnvwdwkqocsvjkefwbhdwncdsfjdjvnwfuwwnbcmds",
+        "NEW_EVENT": "new-event-trigger"
+    }
+}
